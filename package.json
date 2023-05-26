@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/incandescent-crown-mnaff.style-dictionary-li53ofhw",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 1YVTK33v0KU5p6emif8u --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}
